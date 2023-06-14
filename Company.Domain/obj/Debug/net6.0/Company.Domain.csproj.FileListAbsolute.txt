@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\CompanyExam\Company.Domain\bin\Debug\net6.0\Company.Domain.deps.json
+C:\Users\PC\source\repos\CompanyExam\Company.Domain\bin\Debug\net6.0\Company.Domain.dll
+C:\Users\PC\source\repos\CompanyExam\Company.Domain\bin\Debug\net6.0\Company.Domain.pdb
+C:\Users\PC\source\repos\CompanyExam\Company.Domain\obj\Debug\net6.0\Company.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CompanyExam\Company.Domain\obj\Debug\net6.0\Company.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CompanyExam\Company.Domain\obj\Debug\net6.0\Company.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CompanyExam\Company.Domain\obj\Debug\net6.0\Company.Domain.AssemblyInfo.cs
+C:\Users\PC\source\repos\CompanyExam\Company.Domain\obj\Debug\net6.0\Company.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CompanyExam\Company.Domain\obj\Debug\net6.0\Company.Domain.dll
+C:\Users\PC\source\repos\CompanyExam\Company.Domain\obj\Debug\net6.0\refint\Company.Domain.dll
+C:\Users\PC\source\repos\CompanyExam\Company.Domain\obj\Debug\net6.0\Company.Domain.pdb
+C:\Users\PC\source\repos\CompanyExam\Company.Domain\obj\Debug\net6.0\ref\Company.Domain.dll
